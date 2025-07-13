@@ -31,7 +31,7 @@ The virtual experience provided a hands-on glimpse into the role of a **Quantita
 
 ## 💡 Skills Applied
 
-- Python (NumPy, Pandas, Matplotlib)
+- Python (NumPy, Pandas, Matplotlib, Seaborn, sklearn, dynamic programming, functions)
 - Financial modeling
 - Data visualization
 - Credit risk assessment
